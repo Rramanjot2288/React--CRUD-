@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +35,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+.not-found
+{
+  top: 0em;
+  background-color: #fff;
+  justify-content: center;
 }
